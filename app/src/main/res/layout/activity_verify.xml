@@ -13,7 +13,6 @@
         android:layout_height="40dp"
         android:src="@drawable/fi_arrow_left"
         android:padding="4.2dp"
-
         android:background="@drawable/fi_arrow_left_background"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
